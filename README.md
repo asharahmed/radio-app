@@ -1,5 +1,7 @@
 # 📻 Internet Radio App
 
+![alt](https://github.com/asharahmed/radio-app/blob/main/radio-app.png?raw=true)
+
 This is a simple internet radio app built with React, using the Icecast API for retrieving stream metadata.
 
 ## Features
